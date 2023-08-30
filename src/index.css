@@ -311,6 +311,17 @@ footer > * {
   justify-content: center;
 }
 
+.section__home picture img {
+  width: 100%;
+  max-width: 375px;
+}
+
+@media (min-width: 43rem) {
+  .section__home picture img {
+    max-width: unset;
+  }
+}
+
 @media (min-width: 43rem) {
   .section__home picture {
     isolation: isolate;
@@ -320,7 +331,7 @@ footer > * {
   }
 }
 
-@media (min-width: 82rem) {
+@media (min-width: 70rem) {
   .section__home picture {
     right: -8rem;
   }
@@ -336,7 +347,7 @@ footer > * {
   }
 }
 
-@media (min-width: 82rem) {
+@media (min-width: 70rem) {
   .section__home picture::after {
     content: url("../src/assets/images/rectangle-desktop.svg");
     position: absolute;
