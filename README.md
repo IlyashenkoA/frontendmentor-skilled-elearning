@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center">Frontend Mentor - Skilled Elearning</h3>
+  <h3 align="center">Frontend Mentor - Skilled e-learning</h3>
 
   <p align="center">
     <a href="https://frontendmentor-skilled-elearning.vercel.app/">View Demo</a>
@@ -8,7 +8,7 @@
 </p>
 
 ## About The Project
-Skilled Elearning landing page
+Skilled e-learning landing page
 <br />
 
 <img src="https://i.imgur.com/eQGrs4Y.png" />
